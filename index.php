@@ -1,5 +1,5 @@
 <?php
-include_once './lib/loader.php';
+include_once './lib/Loader.php';
 ?>
 
 <form method="post" action="connexion.php">

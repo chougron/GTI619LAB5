@@ -1,6 +1,6 @@
 <?php
 
-include_once './lib/loader.php';
+include_once './lib/Loader.php';
 
 if(CSRF::verifyToken()){
     echo "IT WORKS";
